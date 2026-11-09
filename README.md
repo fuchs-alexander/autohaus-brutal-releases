@@ -2,11 +2,11 @@
 
 Testpakete für macOS (Apple Silicon), Windows x64 und Linux x64. Dieses Repository enthält nur fertige Pakete und Update-Metadaten, keinen Spielquellcode.
 
-## Aktuelle Testversion: 0.1.0-beta.4
+## Aktuelle Testversion: 0.1.0-beta.6
 
-- [macOS: ZIP mit Autohaus.app](https://github.com/fuchs-alexander/autohaus-brutal-releases/releases/download/v0.1.0-beta.4/Autohaus.Brutal-beta-osx-arm64-Portable.zip)
-- [Windows: Setup.exe](https://github.com/fuchs-alexander/autohaus-brutal-releases/releases/download/v0.1.0-beta.4/Autohaus.Brutal-beta-win-x64-Setup.exe)
-- [Linux: AppImage](https://github.com/fuchs-alexander/autohaus-brutal-releases/releases/download/v0.1.0-beta.4/Autohaus.Brutal-beta-linux-x64.AppImage)
+- [macOS: ZIP mit Autohaus.app](https://github.com/fuchs-alexander/autohaus-brutal-releases/releases/download/v0.1.0-beta.6/Autohaus.Brutal-beta-osx-arm64-Portable.zip)
+- [Windows: Setup.exe](https://github.com/fuchs-alexander/autohaus-brutal-releases/releases/download/v0.1.0-beta.6/Autohaus.Brutal-beta-win-x64-Setup.exe)
+- [Linux: AppImage](https://github.com/fuchs-alexander/autohaus-brutal-releases/releases/download/v0.1.0-beta.6/Autohaus.Brutal-beta-linux-x64.AppImage)
 - [Alle Pakete, Prüfsummen und Hinweise](https://github.com/fuchs-alexander/autohaus-brutal-releases/releases)
 
 macOS-ZIP entpacken und Autohaus.app öffnen. Unter Windows ist das Setup empfohlen. Unter Linux das AppImage ausführbar machen; benötigt FUSE oder den AppImage-extract-and-run-Modus.
